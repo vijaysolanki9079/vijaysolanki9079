@@ -3,7 +3,7 @@
 </div>
 
 ## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
+![Profile View](https://komarev.com/ghpvc/?username=vijaysolanki9079&color=blueviolet&base=15)
 
 # Hi there 👋, I'm Vijay Solanki
 
