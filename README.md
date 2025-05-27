@@ -22,13 +22,14 @@ I'm a passionate Web Developer with strong interests in Cybersecurity and AI/ML.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🚀 Major Projects
-- [Gaming Website](https://github.com/vijaysolanki9079/Gaming-Website) - React Showcase(not completed)
-- [Tic-Toe Game](https://github.com/vijaysolanki9079/Tic-Tac-Toe-Game) - JS Showcase
-- [Reminder Bot](https://github.com/vijaysolanki9079/Reminder-Bot) - Python Showcase
+- 🕵️ [Code-Craft](https://github.com/vijaysolanki9079/CodeCraft) - React Showcase(not completed)
+- 🧥 [EliteWear](https://github.com/vijaysolanki9079/EliteWear) - A e-commerce website (React and JS applied)
+- 🤖 [Reminder Bot](https://github.com/vijaysolanki9079/Reminder-Bot) - Python Showcase
 
 ## 🔨 Currently Working On
 - 💬 Chat Application
-- 🤖 Placement Portal Website
+- 🚧 Placement Portal Website
+- 💰 Lost & Found 
 
 ## 🌐 Connect With Me
 <p align="left">
