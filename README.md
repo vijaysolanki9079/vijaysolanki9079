@@ -33,7 +33,7 @@ I'm a passionate Web Developer with strong interests in Cybersecurity and AI/ML.
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/vijay-solanki-446258303/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/vijay-solanki9079/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="linkedin"/></a>
 <a href="https://www.instagram.com/i_vijay_sk_04?igsh=MTZ6OHJxY3VpNGZ4OQ=="><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="45" height="45" alt="instagram"/></a>
 </p>
 
