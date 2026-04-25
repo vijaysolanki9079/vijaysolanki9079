@@ -70,5 +70,4 @@ I enjoy building **scalable web applications** and **intelligent systems** using
 
 ## 📧 Contact Me
 - 📫 Email: **vijaysolanki9079@gmail.com**
-- 📞 Phone: **+91 90792 56593**
 
