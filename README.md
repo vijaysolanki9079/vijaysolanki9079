@@ -68,7 +68,14 @@ I enjoy building **scalable web applications** and **intelligent systems** using
 - 🔗 Exploring **Blockchain technologies** and building **Deep Learning–based projects**, focusing on real-world applications and system scalability  
 
 ---
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=vijaysolanki9079" alt="GitHub Streak"/>
+  </a>
+</p>
 
+
+---
 ## 🌐 Connect With Me
 
 <p>
@@ -83,15 +90,4 @@ I enjoy building **scalable web applications** and **intelligent systems** using
   </a>
 </p>
 
----
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vijaysolanki9079" alt="GitHub Streak"/>
-  </a>
-</p>
-
-
----
-## 📧 Contact Me
 - 📫 Email: **vijaysolanki9079@gmail.com**
-
